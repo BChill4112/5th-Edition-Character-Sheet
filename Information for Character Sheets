@@ -1,0 +1,54 @@
+In this file I am going to put the things we need to include within the character sheet, we can break these down into who does what later if we want to and assign tasks. Each task can be put into its own branch and then added to the master when working and approved.
+Feel free to add places or comments in this file. Once I get all the details for each class I will put tabs in this file to break it down so everyone has a quick reference. 
+
+
+Name
+Class
+Background
+Race
+Spot for image add for character
+***We are going to have to create a word document breaking down the modifiers, inventory, etc for backgrounds, race, and class***
+Alignment
+Experience points (this needs to be a counter, I would like it to auto increase the level once hit set amount of XP)
+Proficency Bonus
+Inspiration Points
+Armor Class
+Initiative (Dex modifier)
+Speed (Race)
+Hit Points (Do we add an in app roll for the HP increase at next level?)
+
+Proficiencies
+Strength
+Dexterity
+Constitution 
+Intelligence
+Wisdom
+Charisma
+(For each stat total we need the modifier along with any bonuses to this stat given by race, class, or background)
+FOR REFERENCE: 12-13(+1), 14-15(+2), 16-17(+3), 18-19(+4), 20(+5)
+Saving Throws
+
+Skills: Acrobatics(Dex), Animal Handling(Wis), Arcana(Int), Athletics(Str), Deception(Cha), History(Int), Insight(Wis), Intimidation(Cha),
+        Investigation(Int), Medicine(Wis), Nature(Int), Perception(Wis), Performance(Cha), Persuasion(Cha), Religion(Int), 
+        Sleight of Hand(Dex), Stealth(Dex), Survival(Wis)
+       
+Passive Wisdom
+Death Saves (Need a save or no, as well as a reset option)
+Hit Dice
+
+Other proficiencies and Languages
+Equipment (affects AC)
+Gold
+Features and traits (Darkvision - generally race and class determine these)
+Spell save DC
+Spell attack bonus
+
+OPTIONAL:
+Character backstory, personality traits, ideals, bonds, flaws
+****Also need to discuss if we want to put spells here or have a spot for people to just program them if at all (or a different app)
+I would like to include a spot to keep track of spell slots, arrows, and sorcery points, maybe even a spot to determine wild surge?
+Also to consider: Do we want to be able to export and save the file?
+
+
+
+
