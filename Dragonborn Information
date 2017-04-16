@@ -1,0 +1,22 @@
+DRAGONBORN
+Ability Score Increase: STR +2, CHA +1
+Size: Medium
+Speed: 30ft
+
+BREATH TYPE AND WIDTH
+Black: Acid, 5 by 30 ft. line (Dex save)
+Blue: Lightening, 5 by 30 ft. line (Dex save)
+Brass: Fire, 5 by 30 ft. line (Dex save)
+Bronze: Lightening, 5 by 30 ft. line (Dex save)
+Copper: Acid, 5 by 30 ft. line (Dex save)
+Gold: Fire, 15 ft. cone (Dex save)
+Green: Poison, 15 ft. cone (Dex save)
+Red: Fire, 15 ft. cone (Dex save)
+Silver: Cold, 15 ft. cone (Con save)
+White: Cold, 15 ft. cone (Con save)
+
+Draconic Ancestry: Choose a dragon type (color). Breath weapon and damage resistance are determined by color.
+Breath Weapon: DC for saving throw is 8 + Con + Proficiency (Creature takes 2d6 on failed, hald on save)
+                Damages increases 3d6 at 6th level, 4d6 at 11th level, 5d6 at 16th level.
+Languages: Common and Draconic
+       
