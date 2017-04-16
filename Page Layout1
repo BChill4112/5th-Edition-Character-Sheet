@@ -1,0 +1,18 @@
+First page:
+On the first page (first use) have the hamburger button extended and be able to create character, returning users will have an option to choose character or create new.
+
+Create Character Screens:
+1. Class (Radio Buttons) – When a class is selected have a box that shows under giving a brief description.
+2. Race (Radio Buttons) – Same thing for race, have a brief box under the selected option
+3. Background (Radio Buttons) - have parenthesis showing the recommended backgrounds based on previous choices. 
+4. Skill Roles
+	Box pops up and asks auto generated roll or input on own.
+	If auto: dice animation then show rolls
+	If input bring up text boxes to put in stats (Confirmation button)
+
+5. Proficiencies and languages - auto fill those for race/class/background and text box for user chosen
+6. OPTIONAL: Spell selection for spell casting classes. 
+
+Landing Page:
+Here is the “character sheet”
+***I will do some sketches to upload. 
