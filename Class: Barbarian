@@ -40,3 +40,30 @@ PROFICIENCIES
     Tools: None
     Saving Throws: Strength, Constitution
     Skills: Choose 2 - Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival.
+    
+    
+STARTING EQUIPMENT
+    Choose one: Greataxe or Martial Melee Weapon
+    Choose one: x2 Handaxes or any Simple Weapon
+    Ab Explorer's pack and 4 javelins
+    
+RAGE (BONUS ACTION) INFORMATION
+Rage lasts for 1 minute, ends if knocked unconscious or if turn ends and you havent attacked or taken damage. Rage can be ended before 1 minute as a bonus action. Can only rage defined amount per level every long rest. 
+    While raging you gain the following benefits if not wearing heavy armor:
+        - Advantage on STR checks and saving throws
+        - Melee weapon attack using STR mod, bonus to damage roll that increases with level (Rage Damage)
+        - Resistance to bludgeoning, peircing, and slashing damage
+    Cannot cast spells while raging.
+    
+UNARMORED DEFENSE:
+If not wearing armor (exluding shields) AC = 10 + DEX mod + CON
+    
+RECKLESS ATTACK:
+2nd level: When making first attack on turn you can attack recklessly. This gives you advantage on melee weapon attack  rolls using STR during this turn, but attack rolls against you have advantage until your next turn
+
+DANGER SENSE:
+2nd level: Advantage on DEX saving throws against effects that you can see such as traps and spells. To have this benefit you cannot be blinded, deafened, or incapacitated.
+
+PRIMAL PATH
+3rd level: Choose a path (Berserker or Path of the Totem Warrior)
+ 
