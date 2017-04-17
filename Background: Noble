@@ -3,15 +3,22 @@ NOBLE
 SKILL PROFICIENCIES: History, Persuasion 
 TOOL PROFICIENCIES: One type of a gaming set
 LANGUAGES: One of your choice
-EQUIPMENT: set of fine clothes
-           A signet ring
-           A scroll of pedigree
+EQUIPMENT: Set of fine clothes
+           Signet ring
+           Scroll of pedigree
            Purse containing 25gp
            
-FEATURE: POSITION OF PRIVILEGE 
+FEATURE: POSITION OF PRIVILEGE
+People think the best of you, welcome in high society, people assume you have the right to be wherever you are.
+Common folk make effort to accommodate you.
+Can seek audience with local nobles.
 
 SUGGESTED CHARACTERISTICS 
 
 VARIANT NOBLE: KNIGHT
+Knighthood is among lowest ranks in noble titles but can be path to higher status. 
+Choose retainer instead of position of privilege 
+Equipment may include banner or other token of other noble.
 
 VARIANT FEATURE: RETAINERS
++3 service retainers loyal to your family (attendants or messengers, or majordomo). They do not fight for you. Will not follow you into dangerous areas. Will leave if they're frequently endangered or abused.
