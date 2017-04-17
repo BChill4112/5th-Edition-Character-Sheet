@@ -66,4 +66,20 @@ DANGER SENSE:
 
 PRIMAL PATH
 3rd level: Choose a path (Berserker or Path of the Totem Warrior)
- 
+
+PATH OF THE BERSERKER
+FRENZY:
+Can go into frenzy when raging. While in frenzy (during rage), make a single melee weapon attack as a bonus action on each of your turns after this one. When rage ends, you suffer one level of exhaustion
+MINDLESS RAGE:
+6th level - you cannot be charmed or frightened while raging. If you are charmed or frightened when you enter your rage, the effect is suspended for the duration of the rage.
+INTIMIDATING PRESENCE:
+10th level - Use your action to frighten someone with menacing presence. When you do so choose one creature that you can see within 30 feet of you, if that creature can see or hear you it must succeed on a WIS saving throw (DC = 8 + proficiency + CHA mod) or be frightened of you until end of your next turns. You can use your action to extend the duration of this effect on the frightened creature. Ends if the creature leaves line of sight or more than 60 feet away. If the creature succeeds you cannot try again on same creature for 24 hours. 
+RETALIATION:
+14th level - When you take damage from a creature 5 feet away from you, use your reaction to make a melee weapon attack against them. 
+
+PATH OF THE TOTEM WARRIOR
+SPIRIT SEEKER:
+3rd level - cast beast sense and speak with animals (Rituals, not spells)
+TOTEM SPIRIT:
+3rd level - Choose a totem spirit and gain its feature. You must make or aquire a physical totem object that uses the fur, feathers, claws, or bines of that totem animal. You can gain physical attributes of your chosen animal.
+ASPECT OF THE BEAST:
